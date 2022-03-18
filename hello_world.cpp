@@ -1,5 +1,6 @@
-include<iostream> include<string> int
-main()
+include<iostream>
+include<string>
+int main()
 {
   //useless comment
   std::string name;
