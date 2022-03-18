@@ -1,6 +1,7 @@
 include<iostream> include<string> int
 main()
 {
+  //useless comment
   std::string name;
   std::cout << "PLease enter name";
   //asking for name
